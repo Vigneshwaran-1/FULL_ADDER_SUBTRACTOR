@@ -38,6 +38,14 @@ Borrow out = A'Bin + A'B + BBin
 
 **Truthtable**
 
+![tt1](https://github.com/user-attachments/assets/fb8a8681-08fd-4b98-b06e-6c398b62a104)
+
+![tt2](https://github.com/user-attachments/assets/e8516be1-35f7-49e6-a296-1a3b9bae0c30)
+
+
+
+
+
 **Procedure**
 
 Write the detailed procedure here
@@ -60,7 +68,7 @@ Formula: Cout = (A ⋅ B) + (Cin ⋅ (A ⊕ B))
 
 
 
-Difference Calculation:
+3.Difference Calculation:
 
 Calculate the XOR of A and B.
 
@@ -68,7 +76,7 @@ XOR the result with Bin to obtain the difference.
 
 Formula: D = A ⊕ B ⊕ Bin
 
-Borrow Calculation:
+4.Borrow Calculation:
 
 Compute the borrow from three cases:
 
