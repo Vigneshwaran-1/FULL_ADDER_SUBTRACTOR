@@ -1,5 +1,9 @@
 # FULL_ADDER_SUBTRACTOR
 
+NAME:P.VIGNESHWARAN
+
+REF NO:24900068
+
 Implementation-of-Full-Adder-and-Full-subtractor-circuit
 
 **AIM:**
@@ -127,7 +131,7 @@ endmodule
 */
 
 **RTL Schematic**
-1)HALF ADDER
+1)FULL ADDER
 
 
 
@@ -138,11 +142,12 @@ endmodule
 
 **Output Timing Waveform**
 
-1)HALF ADDER
+1)FULL ADDER
 
 ![ex-4 2](https://github.com/user-attachments/assets/8b05bc18-167a-42f8-863f-67ca4eb92a95)
 
 
+FULL SUBTRACTOR
 
 ![ex-4 3](https://github.com/user-attachments/assets/3d296601-2b09-4e12-bc9c-9126fe997251)
 
